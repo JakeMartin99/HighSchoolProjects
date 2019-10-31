@@ -5,6 +5,8 @@ Code written by myself, with occasional refrence to StackOverflow to understand 
 
 # NOTES:
 
+The games I made back then have cool UI/UX and mechanics, but I never got the playthrough balanced enough to make them decently beatable.
+
 Some of these projects exhibit behavior that may seem virus like, but are actually harmless fun! (ie opening lots of windows, opening and closing windows repeatedly).  They can easily be killed by hitting the "End Run" button in an IDE, or through Task Manager.
 
 Some projects were updated in 2019 to remove dependencies on Java libraries that were deprecated after I finished the original code.
